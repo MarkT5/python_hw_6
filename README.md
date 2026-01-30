@@ -1,0 +1,1 @@
+Скрипт hello_world.py выводит сообщение "Hello world!" в консоль
